@@ -18,7 +18,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207496-*
   
   # A comma-separated list of topics to set on the repository
-  topics: safety,fence,wall,ksc,kerbalspacecenter,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedK,godarklight
+  topics: safety,fence,wall,ksc,kerbalspacecenter,kerbal,kerbalspaceprogram,ksp,ksp-mods,kerbal-space,kerbal-space-program,kerbal-mods,zedK,godarklight
   
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
