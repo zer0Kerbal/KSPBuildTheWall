@@ -1,0 +1,35 @@
+{
+    "NAME"           : "SafetyWall (SWAL)",
+    "URL"            : "https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/SafetyWall.version",
+    "DOWNLOAD"       : "https://github.com/zer0Kerbal/SafetyWall/releases",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/changelog.md",
+    "GITHUB": {
+        "USERNAME"          : "zer0Kerbal",
+        "REPOSITORY"        : "SafetyWall",
+		"ALLOW_PRE_RELEASE" : "false"
+     },
+    "VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 2,
+        "PATCH" : 0,
+        "BUILD" : 0
+    },
+    "KSP_VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 12,
+        "PATCH" : 3
+    },
+    "KSP_VERSION_MIN" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 5
+    },
+	"INSTALL_LOC" :
+	{
+		"NAME" :	  "SafetyWall",
+		"DIRECTORY" : "godarklight/SafetyWall"
+	}
+}
