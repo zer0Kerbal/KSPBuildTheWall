@@ -28,9 +28,9 @@
 ### Status
 
 * Issues
-  * closes #4 - SafetyWall 1.1.0.0-adoption `<SafetyFirst!>`
-  * closes #5 - 1.1.0.0 Verify Legal Mumbo Jumbo
-  * closes #6 - 1.1.0.0 Update Documentation
-  * closes #7 - 1.1.0.0 Create Social Media
+  * closes #2 - SafetyWall 1.1.0.0-adoption `<SafetyFirst!>`
+  * closes #3 - 1.1.0.0 Verify Legal Mumbo Jumbo
+  * closes #4 - 1.1.0.0 Update Documentation
+  * closes #5 - 1.1.0.0 Create Social Media
 
 ---

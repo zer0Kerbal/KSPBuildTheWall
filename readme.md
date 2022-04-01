@@ -102,7 +102,7 @@ see [Attribution.md][MOD:attr] for comprehensive list</summary>
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/SafetyWall/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207494-*/ "SafetyWall Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207496-*/ "SafetyWall Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/SafetyWall/wiki/Known-Issues "GitHub Issues"
 [MOD:known]: https://github.com/zer0Kerbal/SafetyWall/wiki/Known-Issues "Known Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/SafetyWall/blob/master/LICENSE "Github License"
