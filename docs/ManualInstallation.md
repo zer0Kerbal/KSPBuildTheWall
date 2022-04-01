@@ -52,6 +52,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
       [SafetyWall]
         [Plugins]
           SafetyWall.dll
+          wall.jpg
           ...
         1.2.0.0.htm
         changelog.md
