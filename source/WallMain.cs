@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
-namespace BuildTheWall
+namespace SafetyWall
 {
     [KSPAddon(KSPAddon.Startup.EveryScene, false)]
     public class WallMain : MonoBehaviour
@@ -17,7 +17,7 @@ namespace BuildTheWall
 
         public void Awake()
         {
-            Debug.Log("BuildTheWall Awake"); 
+            Debug.Log("SafetyWall Awake"); 
             string dllPath = Path.GetDirectoryName(new DirectoryInfo(System.Reflection.Assembly.GetExecutingAssembly().Location).FullName);
             wallFile = Path.Combine(dllPath, "wall.txt");
             if (!File.Exists(wallFile))
@@ -30,13 +30,13 @@ namespace BuildTheWall
         {
             if (!wallBuilt && !buildMode && wallFile != null)
             {
-                bool buildTheWall = false;
+                bool SafetyWall = false;
                 if (HighLogic.LoadedScene == GameScenes.FLIGHT)
                 {
                     Vessel activeVessel = FlightGlobals.ActiveVessel;
-                    buildTheWall = FlightGlobals.ready && activeVessel != null && activeVessel.state != Vessel.State.DEAD && activeVessel.loaded;
+                    SafetyWall = FlightGlobals.ready && activeVessel != null && activeVessel.state != Vessel.State.DEAD && activeVessel.loaded;
                 }
-                if (buildTheWall)
+                if (SafetyWall)
                 {
                     wallBuilt = true;
                     Vector3d lastLoadPos = Vector3d.zero;
@@ -90,7 +90,7 @@ namespace BuildTheWall
             {
                 if (HighLogic.LoadedSceneIsFlight)
                 {
-                    windowPos = GUILayout.Window(123456789, windowPos, DrawFunction, "BuildTheWall");
+                    windowPos = GUILayout.Window(123456789, windowPos, DrawFunction, "SafetyWall");
                 }
             }
         }

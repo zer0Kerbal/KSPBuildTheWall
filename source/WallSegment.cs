@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BuildTheWall
+namespace SafetyWall
 {
     public class WallSegment
     {

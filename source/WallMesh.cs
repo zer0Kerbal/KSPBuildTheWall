@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace BuildTheWall
+namespace SafetyWall
 {
     public class WallMesh
     {
@@ -26,10 +26,12 @@ namespace BuildTheWall
         {
             if (meshTexture == null)
             {
-                if (GameDatabase.Instance.ExistsTexture("BuildTheWall/wall"))
+                if (GameDatabase.Instance.ExistsTexture("godarklight/SafetyWall/Textures/wall"))
                 {
                     Debug.Log("Using wall texture");
-                    meshTexture = GameDatabase.Instance.GetTexture("BuildTheWall/wall", false);
+                    // KSP/GameData/BuildTheWall/wall.jpg
+                    meshTexture = GameDatabase.Instance.GetTexture("godarklight/SafetyWall/Textures/wall", false);
+
                 }
                 else
                 {
