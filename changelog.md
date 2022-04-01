@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | SafetyWall (SWAL)                                                   |
+| modName    | SafetyWall (SWAL)                                                |
 | ---------- | ---------------------------------------------------------------- |
 | license    | BSD-2-Clause                                                     |
 | author     | godarklight and zer0Kerbal                                       |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207496-*) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/SafetyWall)               |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SafetyWall)             |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/SafetyWall)            |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SafetyWall)          |
 | spacedock  | (https://spacedock.info/mod/3000)                                |
-| ckan       | SafetyWall                                                          |
+| ckan       | SafetyWall                                                       |
 
 ## Version 1.1.0.0-adoption - `<SafetyFirst!>`
 
