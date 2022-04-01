@@ -1,0 +1,23 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "FORUM-01.png",
+        "FORUM-02.png",
+        "FORUM-03.png",
+        "FORUM-04.png",
+        "**/GameData/**",
+        "**/LegalMumboJumbo/**",
+        "source/*",
+        "**/Assets/**",
+        "**/Flags/**",
+        "**/Agents/**",
+        "**/Textures/**",
+        "**/UI/**",
+        "**/PluginData/**",
+        "**/Icons/**",
+        "**/@thumbs/**"
+    ],
+    "aggressiveCompression": "false",
+    "compressWiki": "true",
+    "minKBReduced": 500
+}
