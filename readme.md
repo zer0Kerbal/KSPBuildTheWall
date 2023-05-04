@@ -116,7 +116,7 @@ Comment, click, like, share, up-vote, subscribe
 [SHD:cde]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/json/code.json
 [SHD:dll]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/json/dll.json
 [SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/json/mod.json
-[SHD:pgs]: https://github.com/zer0Kerbal/SafetyWall/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
+[SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
 [MOD:0:dnload]: https://spacedock.info/mod/457 "SpaceDock"  
