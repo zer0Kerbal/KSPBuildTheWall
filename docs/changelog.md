@@ -40,12 +40,24 @@ CC BY-ND 4.0 by zer0Kerbal -->
 ### Code 1.3.0.0
 
 * SafetyWall.dll v1.2.0.11 --> v1.3.0.17
+* Localize code
 * Recompile
   * .NET 3.5
   * C# 5.0
   * KSP 1.4.5
   * [Obsolete]
     * Mesh.Optimize();
+  * closes #34 - Code Localization
+
+### Localization 1.3.0.0
+
+* Create
+  * [x] Localization/
+    * [x] <en-us.cfg> v1.0.0.0
+    * [x] [readme.md] v2.1.2.0
+    * [x] [quickstart.md] v1.0.1.1
+  * closes #17 - English <en-us.cfg>
+  * updates #16 - Localization - Master
 
 ### Create 1.3.0.0
 
@@ -60,6 +72,8 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * HeroLogo.png
   * copy/convert to HeroLogo.jpg
 * Issues
+  * closes #10 - SafetyWall (WALL) 1.3.0.0-release `<Thank you godarklight>` edition
+  * closes #11 - 1.3.0.0 Additional Tasks
 
 ---
 
