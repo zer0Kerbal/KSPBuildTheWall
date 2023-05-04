@@ -7,12 +7,12 @@ tags: disclaimer,questions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Disclaimer.md v1.0.0.0
-SafetyWall (SWAL)
+SafetyWall (WALL)
 created: 01 Apr 2022
 updated: 
 -->
 
-# SafetyWall (SWAL)
+# SafetyWall (WALL)
 
 [Home](/index.md)
 
