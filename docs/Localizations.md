@@ -7,7 +7,7 @@ tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Localizations.md v1.1.3.1
-SafetyWall (SWAL)
+SafetyWall (WALL)
 created: 01 Apr 2022
 updated: 
 -->
@@ -15,7 +15,7 @@ updated:
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
-# SafetyWall (SWAL)
+# SafetyWall (WALL)
 
 [Home](./index.md)
 
@@ -38,7 +38,7 @@ __These localizations for KSP and its DLC's are available through Steam:__
 ## Included just in case
 
 * ![Español Mexicano][ME] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
-* ![한국어][KO] [Korean (한국어) <ko.cfg>  
+* ![한국어][KO] Korean (한국어) <ko.cfg>  
 * ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
 * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
 * ![Polski][PO] Polish (Polski) <pl.cfg>  
