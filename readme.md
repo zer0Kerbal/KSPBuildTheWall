@@ -50,7 +50,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][SHD:ksp]][KSP:url]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 
 ### Recommends
 
