@@ -24,19 +24,22 @@ CC BY-ND 4.0 by zer0Kerbal -->
 ## Version 1.3.0.0-release - `<Thank you godarklight>` edition
 
 * Released
-  * 30 Apr 2023
+  * 01 Apr 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 ### Change Summary 1.3.0.0
 
 * Recompiled
-  * NyanCat.dll v1.1.0.1 --> v1.2.0.3
+  * SafetyWall.dll v1.2.0.11 --> v1.3.0.17
+* Add flag
 * lint and update documentation
+* Localize
+  * English (en-us.cfg)
 
 ### Code 1.3.0.0
 
-* NyanCat.dll v1.1.0.1 --> v1.2.0.3
+* SafetyWall.dll v1.2.0.11 --> v1.3.0.17
 * Recompile
   * .NET 3.5
   * C# 5.0
