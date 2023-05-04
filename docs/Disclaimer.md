@@ -6,17 +6,22 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: disclaimer,questions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- Disclaimer.md v1.0.0.0
+<!-- Disclaimer.md v1.1.0.0
 SafetyWall (WALL)
 created: 01 Apr 2022
-updated: 
--->
+updated: 01 Apr 2023
 
-# SafetyWall (WALL)
+TEMPLATE: Disclaimer.md v1.0.2.0
+created: 01 Apr 2022
+updated: 01 Apr 2023
+
+based upon work by godarklight -->
+
+## [SafetyWall (WALL)][mod]
 
 [Home](/index.md)
 
-## Disclaimer by [`@godarklight`][godarklight]
+### Disclaimer by [`@godarklight`][godarklight]
 
 > Use of this mod may result in the following side effects:
 >
@@ -29,5 +34,8 @@ updated:
 **Edited June 28, 2015 by godarklight**
 
 [godarklight]: https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/ "godarklight"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/NAMSafetyWallE "SafetyWall (WALL)"
