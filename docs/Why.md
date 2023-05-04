@@ -2,21 +2,19 @@
 permalink: /Why.html
 title: Why
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: fourty-two,42,6x7,6times7,6*7,why,why-not,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- Why.md v1.1.0.0
 SafetyWall (WALL)
 created: 01 Apr 2019
-updated: 
+updated: 01 Apr 2023
 -->
 
-# SafetyWall (WALL)
+# [SafetyWall (WALL)][mod]
 
 [Home](/index.md)
 
-## Answered by 
+## Answered by
 
 [<img src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" alt="zer0Kerbal" style="zoom:42%;" />](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/)` [zer0Kerbal][zer0Kerbal]
 
@@ -26,10 +24,9 @@ updated:
 
 **Edited April 1st, 2022 by [zer0Kerbal][zer0Kerbal]**
 
-[godarklight]: https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/ "zer0Kerbal"
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
-
-
-
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SafetyWall "SafetyWall (WALL)"
