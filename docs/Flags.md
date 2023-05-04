@@ -26,11 +26,11 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 ## Flags
 
 <!-- no toc -->
-* [Vogon Construction)](#vogon-construction)
+* [Vogon Construction](#vogon-construction)
 
 ### Vogon Construction
 
- <img src="https://raw.githubusercontent.com/zer0Kerbal/godarklight/SafetyWall/master/docs/Flags/VogonConstruction.png" alt="VogonConstruction" style="zoom:75%;" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/docs/Flags/VogonConstruction.png" alt="Vogon Construction" style="zoom:75%;" />
 
 [top](#flags)
 
