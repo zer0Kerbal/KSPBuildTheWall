@@ -8,7 +8,7 @@ tags: license,bsd,simple,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 BSD-2-Clause.md v1.0.4.1
-Mini Sample Return Capsule (MSRC)  
+SafetyWall (WALL)
 created: 01 Feb 2022
 updated: 30 Mar 2022
 -->
@@ -25,7 +25,7 @@ Further resources on the **2-clause BSD license**
 
 *Note: This license has also been called the "Simplified BSD License" and the "FreeBSD License". See also the [3-clause BSD License](https://opensource.org/licenses/BSD-3-Clause).*
 
-Copyright <2022> <zer0Kerbal>
+Copyright © 2021, 2022 zer0Kerbal>
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
