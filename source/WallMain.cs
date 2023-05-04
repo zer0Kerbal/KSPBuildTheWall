@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
+using KSP.Localization;
 
 namespace SafetyWall
 {
@@ -90,7 +91,7 @@ namespace SafetyWall
             {
                 if (HighLogic.LoadedSceneIsFlight)
                 {
-                    windowPos = GUILayout.Window(123456789, windowPos, DrawFunction, "SafetyWall");
+                    windowPos = GUILayout.Window(123456789, windowPos, DrawFunction, Localizer.Format("#WALL-00", Version.SText));		// #WALL-00 = SafetyWall <<1>>
                 }
             }
         }
@@ -98,7 +99,7 @@ namespace SafetyWall
         private void DrawFunction(int windowID)
         {
             GUI.DragWindow(new Rect(0, 0, float.PositiveInfinity, 20));
-            if (GUILayout.Button("Clear"))
+            if (GUILayout.Button("#autoLOC_900308")) // #autoLOC_900308 = Clear
             {
                 Debug.Log("Clearing Walls");
                 foreach (WallSegment wallSegment in wallSegments)
@@ -107,7 +108,7 @@ namespace SafetyWall
                 }
                 wallSegments.Clear();
             }
-            if (GUILayout.Button("Add to Wall"))
+            if (GUILayout.Button(Localizer.Format("#WALL-01")))		// #WALL-01 = Add to Wall
             {
                 Vector3d newPos = new Vector3d(FlightGlobals.ActiveVessel.latitude, FlightGlobals.ActiveVessel.longitude, FlightGlobals.ActiveVessel.altitude);
                 Debug.Log("Adding wall at: " + newPos);
@@ -117,7 +118,7 @@ namespace SafetyWall
                 }
                 lastPos = newPos;
             }
-            if (GUILayout.Button("Remove last Wall"))
+            if (GUILayout.Button(Localizer.Format("#WALL-02")))		// #WALL-02 = Remove last Wall
             {
                 if (wallSegments.Count > 0)
                 {
@@ -129,12 +130,12 @@ namespace SafetyWall
                 }
 
             }
-            if (GUILayout.Button("Make break"))
+            if (GUILayout.Button(Localizer.Format("#WALL-03")))		// #WALL-03 = Make break
             {
                 Debug.Log("Making break");
                 lastPos = Vector3d.zero;
             }
-            if (GUILayout.Button("Finish"))
+            if (GUILayout.Button("#WALL-04"))		// #WALL-04 = Finish
             {
                 Debug.Log("Finish wall");
                 using (StreamWriter sw = new StreamWriter(wallFile))
@@ -165,4 +166,3 @@ namespace SafetyWall
         }
     }
 }
-
