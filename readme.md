@@ -20,7 +20,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 An add-on that adds a safety fence around the Kerbal Space Center, for Kerbal Space Program.
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`godarklight`[auth-link]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`godarklight`][auth-link]
 
 ### See more
 
