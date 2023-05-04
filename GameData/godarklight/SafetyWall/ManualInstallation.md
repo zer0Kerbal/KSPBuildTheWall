@@ -7,13 +7,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.1.0
-SafetyWall (SWAL)
+SafetyWall (WALL)
 created: 01 Apr 2019
 updated: 01 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# SafetyWall (SWAL)
+# SafetyWall (WALL)
 
 An add-on that adds a safety fence around the Kerbal Space Center, for Kerbal Space Program.
 
