@@ -84,7 +84,7 @@ graphics, physics, plugin
 #### Original (ROOT) (0) - Author: [`godarklight`][auth-link]
 
 > Forum: [Thread][MOD:0:thread] - Download: [SpaceDock][MOD:0:dnload] - Source: [GitHub][MOD:0:source]  
-> License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
+> License: [![License][LIC:0:shd]][LIC:0:url]
 
 #### Disclaimer(s)
 >
