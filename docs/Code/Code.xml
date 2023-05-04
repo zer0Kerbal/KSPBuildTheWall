@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SafetyWall</name>
+    </assembly>
+    <members>
+        <member name="T:SafetyWall.Version">
+            <summary>Version - retrieved at compile from SafetyWall.version</summary>
+        </member>
+        <member name="F:SafetyWall.Version.major">
+            <summary>Major revision</summary>
+        </member>
+        <member name="F:SafetyWall.Version.minor">
+            <summary>Minor revision</summary>
+        </member>
+        <member name="F:SafetyWall.Version.patch">
+            <summary>Patch revision</summary>
+        </member>
+        <member name="F:SafetyWall.Version.build">
+            <summary>Build revision</summary>
+        </member>
+        <member name="F:SafetyWall.Version.Number">
+            <summary>Version String const</summary>
+        </member>
+        <member name="F:SafetyWall.Version.Text">
+            <summary>Text Version String const</summary>
+        </member>
+        <member name="F:SafetyWall.Version.SText">
+            <summary>Plain Text Version String const</summary>
+        </member>
+        <member name="T:SafetyWall.WallMesh">
+            <summary>WallMesh</summary>
+        </member>
+        <member name="M:SafetyWall.WallMesh.#ctor(Vector3d,Vector3d,System.Boolean)">
+            <summary>WallMesh</summary>
+        </member>
+        <member name="M:SafetyWall.WallMesh.Update">
+            <summary>Update</summary>
+        </member>
+        <member name="M:SafetyWall.WallMesh.FixedUpdate">
+            <summary>FixedUpdate</summary>
+        </member>
+        <member name="M:SafetyWall.WallMesh.MakeCollidable">
+            <summary>MakeCollidable</summary>
+        </member>
+        <member name="M:SafetyWall.WallMesh.Destroy">
+            <summary>Destroy</summary>
+        </member>
+    </members>
+</doc>

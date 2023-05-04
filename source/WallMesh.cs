@@ -3,6 +3,7 @@ using UnityEngine;
 
 namespace SafetyWall
 {
+    /// <summary>WallMesh</summary>
     public class WallMesh
     {
         private GameObject gameObject;
@@ -14,6 +15,7 @@ namespace SafetyWall
         private Vector3d endPos;
         private bool collidable;
 
+        /// <summary>WallMesh</summary>
         public WallMesh(Vector3d startPos, Vector3d endPos, bool collidable)
         {
             this.startPos = startPos;
@@ -182,7 +184,7 @@ namespace SafetyWall
             retMesh.vertices = vertices;
             retMesh.triangles = triangles;
             retMesh.uv = uv;
-            retMesh.Optimize();
+            //retMesh.Optimize();
             retMesh.RecalculateNormals();
             return retMesh;
         }
@@ -199,6 +201,7 @@ namespace SafetyWall
             gameObject.transform.localScale = new Vector3(2f, 10f, wallLength);
         }
 
+        /// <summary>Update</summary>
         public void Update()
         {
             if (gameObject != null)
@@ -207,6 +210,7 @@ namespace SafetyWall
             }
         }
 
+        /// <summary>FixedUpdate</summary>
         public void FixedUpdate()
         {
             if (gameObject != null)
@@ -215,6 +219,7 @@ namespace SafetyWall
             }
         }
 
+        /// <summary>MakeCollidable</summary>
         public void MakeCollidable()
         {
             collidable = true;
@@ -227,6 +232,7 @@ namespace SafetyWall
             }
         }
 
+        /// <summary>Destroy</summary>
         public void Destroy()
         {
             if (gameObject != null)
@@ -237,4 +243,3 @@ namespace SafetyWall
         }
     }
 }
-
