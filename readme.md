@@ -3,9 +3,9 @@ SafetyWall (WALL)
 created: 23 Nov 2014
 updated: 03 May 2023
 
-TEMPLATE: readme.md v1.7.2.1
+TEMPLATE: readme.md v1.7.2.2
 created: 17 Jul 2017
-updated: 15 Apr 2023
+updated: 01 May 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
@@ -97,7 +97,7 @@ graphics, physics, plugin
 
 Comment, click, like, share, up-vote, subscribe
 
-> ***Completely voluntary, absolutely amazing, and really does help me out a lot!***  
+> ***Completely voluntary, absolutely amazing, and really does out a lot!***  
 > *and it is true.*
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Patreon][PATREON:img]][PATREON:url]
@@ -156,6 +156,11 @@ Comment, click, like, share, up-vote, subscribe
 [PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
+
+<!-- Localization -->
+[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
+[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
