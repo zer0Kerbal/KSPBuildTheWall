@@ -16,7 +16,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 ![Code][SHD:cde] ![SafetyWall][SHD:dll]
 
-## [SafetyWall (WALL)][mod]
+## [SafetyWall (WALL)][WALL]
 
 An add-on that adds a safety fence around the Kerbal Space Center, for Kerbal Space Program.
 
@@ -147,6 +147,7 @@ Comment, click, like, share, up-vote, subscribe
 <!-- links to add-ons/mods -->
 [EXCD]: https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector "Exception Detector (EXCD)"
 [NYAN]: https://www.curseforge.com/kerbal/ksp-mods/NyanCat "NyanCat (NYAN)"
+[WALL]: https://www.curseforge.com/kerbal/ksp-mods/SafetyWall "SafetyWall (WALL)"
 
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/ "godarklight"  
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
