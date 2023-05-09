@@ -10,6 +10,39 @@
 | spacedock  | (https://spacedock.info/mod/3000)                                 |
 | ckan       | SafetyWall                                                        |
 
+## Version 1.3.1.0-release - `<Merci beaucoup Icecoptère>` edition
+
+* Released
+  * 08 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary
+
+* Localize
+  * French (Français)
+  * Merci beaucoup [Icecoptère](https://github.com/Icecoptere)
+
+### Localization 1.3.1.0
+
+* Create
+  * French (Français)
+  * <fr-fr.cfg> v1.0.0.0
+  * Merci beaucoup [Icecoptère](https://github.com/Icecoptere)
+* Update
+  * [Attribution.md] v1.1.1.0
+  * [Localizations.md] v1.3.1.0
+* closes #21 - French (Français) <fr-fr.cfg>
+* updates #16 - Localization - Master
+
+### Issues
+
+* closes #14 - SafetyWall (WALL) 1.3.1.0-release `<Merci beaucoup Icecoptère>` edition
+* closes #15 - 1.3.1.0 Additional Tasks
+* closes #38 - duplicate
+
+---
+
 ## Version 1.3.0.0-release - `<Thank you godarklight>` edition
 
 * Released
@@ -41,10 +74,10 @@
 ### Localization 1.3.0.0
 
 * Create
-  * [x] Localization/
-    * [x] <en-us.cfg> v1.0.0.0
-    * [x] [readme.md] v2.1.2.0
-    * [x] [quickstart.md] v1.0.1.1
+  * Localization/
+    * <en-us.cfg> v1.0.0.0
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
   * closes #17 - English <en-us.cfg>
   * updates #16 - Localization - Master
 
