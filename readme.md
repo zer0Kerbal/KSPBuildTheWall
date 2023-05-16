@@ -40,6 +40,8 @@ An add-on that adds a safety fence around the Kerbal Space Center, for Kerbal Sp
 ### Localization
 
 >* ![English][EN] English
+>* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) - muito obrigada  [Santo](https://github.com/ClaraSantosmf)
+>* ![Français][FR] French (Français) - merci beaucoup  [Icecoptere](https://github/Icecoptere)
 >* ***your translation here***
 
 ### Installation Directions
@@ -162,6 +164,9 @@ Comment, click, like, share, up-vote, subscribe
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png "Português Brasil"
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png "Français"
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png "Dutch"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
