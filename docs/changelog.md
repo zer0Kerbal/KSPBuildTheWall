@@ -21,6 +21,40 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | spacedock  | (https://spacedock.info/mod/3000)                                 |
 | ckan       | SafetyWall                                                        |
 
+## Version 1.3.2.0-release - `<Muito obrigada Santos>` edition
+
+* Released
+  * 15 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.3.2.0
+
+* Localize
+  * Brazilian Portuguese (Português Brasil)
+  * Muito obrigada [Santo](https://github.com/ClaraSantosmf)
+
+### Localization 1.3.2.0
+
+* Create
+  * Brazilian Portuguese (Português Brasil)
+  * <pr-br.cfg> v1.0.0.0
+  * Muito obrigada [Santo](https://github.com/ClaraSantosmf)
+* Update
+  * [Attribution.md] v1.1.1.0
+  * [Localizations.md] v1.3.1.0
+* closes #21 - French (Français) <fr-fr.cfg>
+* updates #16 - Localization - Master
+
+### Issues
+
+* closes #39 - SafetyWall (WALL) 1.3.2.0-release `<Muito obrigado Santos>` edition
+* closes #40 - 1.3.2.0 Additional Tasks
+* closes #18 - Brazalian (Português Brasil) <pt-br.cfg>
+* updates #16 - Localization - Master
+
+---
+
 ## Version 1.3.1.0-release - `<Merci beaucoup Icecoptère>` edition
 
 * Released
@@ -28,7 +62,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Change Summary
+### Change Summary 1.3.1.0
 
 * Localize
   * French (Français)
