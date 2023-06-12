@@ -10,6 +10,49 @@
 | spacedock  | (https://spacedock.info/mod/3006)                                 |
 | ckan       | SafetyWall                                                        |
 
+## Version 1.3.4.0-release - `<Спасибо evanisrael>` edition
+
+* Released
+  * 19 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.3.4.0
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+### Localization 1.3.4.0
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #24 - Russian (Русский) <ru.cfg>
+* updates #16 - Localization - Master
+
+#### Documentation 1.3.4.0
+
+* Update
+  * [readme.md] v1.3.4.0
+  * [Attributions.md] v1.3.4.0
+  * [Localizations.md] v1.3.4.0
+
+### Issues 1.3.4.0
+
+* closes #52 - SafetyWall (WALL) 1.3.4.0-release `<Спасибо evanisrael>` edition
+* closes #53 - 1.3.4.0 Additional Tasks
+
+---
+
 ## Version 1.3.3.0-release - `<Bedankt wittekop38>` edition
 
 * Released
@@ -37,7 +80,7 @@
 * closes #28 - Dutch (Nederlands) <nl-nl.cfg>
 * updates #16 - Localization - Master
 
-### Issues
+### Issues 1.3.3.0
 
 * closes #39 - SafetyWall (WALL) 1.3.2.0-release `<Muito obrigado Santos>` edition
 * closes #40 - 1.3.2.0 Additional Tasks
