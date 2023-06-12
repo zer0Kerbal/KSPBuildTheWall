@@ -15,7 +15,6 @@ created: 01 Feb 2022
 updated: 15 Mar 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
-
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
@@ -68,6 +67,8 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 ### Art Asset(s)
 
+* Flags
+* Hero Logo/Cover - All Rights Reserved
 * Sound
   * Nyan.ogg
   * https://soundcloud.com/user966255279/nyan
@@ -81,5 +82,6 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 </ul>
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+  used with express permission from zer0Kerbal
 
 [mod]: https://www.curseforge.com/kerbal/ksp-mods/SafetyWall "SafetyWall (WALL)"
