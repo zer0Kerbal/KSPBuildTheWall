@@ -4,10 +4,10 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Localizations.md v1.3.3.0
+<!-- Localizations.md v1.3.4.0
 SafetyWall (WALL)
 created: 01 Apr 2022
-updated: 22 May 2023
+updated: 12 Jun 2023
 
 TEMPLATE: Localizations.md v1.1.9.0
 created: 01 Feb 2022
@@ -30,6 +30,7 @@ has been translated into the following languages:
 * ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) <pt-br.cfg>
 * ![Français][FR] French (Français) <fr-fr.cfg>
 * ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>
+* ![Русский][RU] Russian (Русский) <ru.cfg>
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
@@ -37,7 +38,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![Español][ES] Spanish (Español) <es-es.cfg>
 * ![Italiano][IT] Italian (Italiano) <it-it.cfg>
 * ![日本語][JA] Japanese(日本語) <ja.cfg>
-* ![Русский][RU] Russian (Русский) <ru.cfg>
 * ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>
 
 ## Additionally Included
