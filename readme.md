@@ -1,22 +1,20 @@
-<!-- readme.md v1.3.3.0
+<!-- readme.md v1.3.4.0
 SafetyWall (WALL)
 created: 23 Nov 2014
-updated: 22 May 2023
+updated: 12 Jun 2023
 
 TEMPLATE: readme.md v1.7.2.2
 created: 17 Jul 2017
 updated: 01 May 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+# [SafetyWall (WALL)][CURSFG:url]
 
-[![SafetyWall (WALL)][SHD:mod]][CURSFG:url]
+[![SafetyWall (WALL)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] 
-[![GitHub Pages][SHD:pgs]][pages]
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][SHD:pgs]][pages]  
 
 ![Code][SHD:cde] ![SafetyWall][SHD:dll]
-
-## [SafetyWall (WALL)][WALL]
 
 An add-on that adds a safety fence around the Kerbal Space Center, for Kerbal Space Program.
 
@@ -41,8 +39,9 @@ An add-on that adds a safety fence around the Kerbal Space Center, for Kerbal Sp
 
 >* ![English][EN] English
 >* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) - muito obrigada  [Santo](https://github.com/ClaraSantosmf)
->* ![Français][FR] French (Français) - merci beaucoup  [Icecoptere](https://github/Icecoptere)
->* ![Dutch (Nederlands)][NL] Dutch (Nederlands) - Bedankt [wittekop38](https://github.com/wittekop38)
+>* ![Français][FR] French (Français) - merci beaucoup [Icecoptere](https://github/Icecoptere)
+>* ![Dutch (Nederlands)][NL] Dutch (Nederlands) - bedankt [wittekop38](https://github.com/wittekop38)
+>* ![Russian (Русский)][RU] Russian (Русский) - спасибо [evanisrael](https://github/evanisrael)
 >* ***your translation here***
 
 ### Installation Directions
@@ -57,9 +56,10 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Recommends
 
-* by [godarklight][auth-link]
-  * [Exception Detector (EXCD)][EXCD]
-  * [NyanCat (NYAN)][NYAN]
+* by [godarklight](https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/)
+  * [Exception Detector (EXCD)](https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector)
+  * [NyanCat (NYAN)](https://www.curseforge.com/kerbal/ksp-mods/NyanCat)
+  * [SafetyWall (WALL)](https://www.curseforge.com/kerbal/ksp-mods/SafetyWall)
 
 ### Tags
 
@@ -86,8 +86,8 @@ graphics, physics, plugin
 
 #### Original (ROOT) (0) - Author: [`godarklight`][auth-link]
 
-> Forum: [Thread][MOD:0:thread] - Download: [SpaceDock][MOD:0:dnload] - Source: [GitHub][MOD:0:source]  
-> License: [![License][LIC:0:shd]][LIC:0:url]
+> Forum: [Thread][0:thr] - Download: [SpaceDock][0:dnl] - Source: [GitHub][0:src]  
+> License: [![License][0:shd]][0:url]
 
 #### Disclaimer(s)
 >
@@ -122,13 +122,12 @@ Comment, click, like, share, up-vote, subscribe
 [SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:0:dnload]: https://spacedock.info/mod/457 "SpaceDock"  
-[MOD:0:source]: https://github.com/godarklight/KSPSafetyWall "GitHub"
-[MOD:0:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/91042-*/ "KSP Forum"  
+[0:dnl]: https://spacedock.info/mod/457 "SpaceDock"  
+[0:src]: https://github.com/godarklight/KSPSafetyWall "GitHub"
+[0:thr]:https://forum.kerbalspaceprogram.com/index.php?/topic/91042-*/ "KSP Forum"  
 
-<!--- license provenance-->
-[LIC:0:url]: https://unlicense.org/ "Unilicense"
-[LIC:0:shd]: https://img.shields.io/badge/License-Unilicense-black?style=plastic&labelColor=white "Unilicense"
+[0:shd]: https://img.shields.io/badge/License-Unilicense-black?style=plastic&labelColor=white "Unilicense"
+[0:url]: https://unlicense.org/ "Unilicense"
 
 [LIC:url]: https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/json/license.json "SimpleBSD-2"
@@ -147,11 +146,7 @@ Comment, click, like, share, up-vote, subscribe
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/json/ksp.json "Kerbal Space Program"
 
-<!-- links to add-ons/mods -->
-[EXCD]: https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector "Exception Detector (EXCD)"
-[NYAN]: https://www.curseforge.com/kerbal/ksp-mods/NyanCat "NyanCat (NYAN)"
-[WALL]: https://www.curseforge.com/kerbal/ksp-mods/SafetyWall "SafetyWall (WALL)"
-
+<!-- links -->
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/ "godarklight"  
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
@@ -168,6 +163,7 @@ Comment, click, like, share, up-vote, subscribe
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png "Português Brasil"
 [FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png "Français"
 [NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png "Dutch"
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
