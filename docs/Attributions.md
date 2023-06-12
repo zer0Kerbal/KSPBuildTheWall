@@ -5,17 +5,16 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
-Attributions.md v1.1.2.0
+Attributions.md v1.1.3.0
 SafetyWall (WALL)
 created: 01 Apr 2022
-updated: 15 May 2023
+updated: 22 May 2023
 
 TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
 updated: 15 Mar 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
-
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
@@ -49,11 +48,12 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 * none
 
 ### Translations
-Muito obrigado Santos
+
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png" alt="Português Brasil" style="zoom:100%;" />  Brazilian Portuguese (Português Brasil)- muito obrigada  <a href="https://github.com/ClaraSantosmf" alt="Santos">Santos</a></li>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png" alt="French (Français)" style="zoom:100%;" /> French (Français) - merci beaucoup  <a href="https://github.com/Icecoptere" alt="Icecoptere">Icecoptere</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png" alt="Dutch (Nederlands)" style="zoom:100%;" /> Dutch (Nederlands) - Bedankt <a href="https://github.com/wittekop38" alt="wittekop38">wittekop38</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
@@ -67,6 +67,8 @@ Muito obrigado Santos
 
 ### Art Asset(s)
 
+* Flags
+* Hero Logo/Cover - All Rights Reserved
 * Sound
   * Nyan.ogg
   * https://soundcloud.com/user966255279/nyan
@@ -80,5 +82,6 @@ Muito obrigado Santos
 </ul>
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+  used with express permission from zer0Kerbal
 
 [mod]: https://www.curseforge.com/kerbal/ksp-mods/SafetyWall "SafetyWall (WALL)"

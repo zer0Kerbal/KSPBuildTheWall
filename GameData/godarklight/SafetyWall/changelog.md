@@ -7,8 +7,42 @@
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207496-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SafetyWall)             |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SafetyWall)           |
-| spacedock  | (https://spacedock.info/mod/3000)                                 |
+| spacedock  | (https://spacedock.info/mod/3006)                                 |
 | ckan       | SafetyWall                                                        |
+
+## Version 1.3.3.0-release - `<Bedankt wittekop38>` edition
+
+* Released
+  * 12 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.3.3.0
+
+* Localize
+  * Dutch (Nederlands)
+  * Bedankt [wittekop38](https://github.com/wittekop38)
+
+### Localization 1.3.3.0
+
+* Create
+  * Dutch (Nederlands)
+  * <nl-nl.cfg> v1.0.1.0
+  * Bedankt [wittekop38](https://github.com/wittekop38)
+* Update
+  * [pt-br.cfg] v1.0.1.0
+    * update header
+  * [Attribution.md] v1.1.3.0
+  * [Localizations.md] v1.3.3.0
+* closes #28 - Dutch (Nederlands) <nl-nl.cfg>
+* updates #16 - Localization - Master
+
+### Issues
+
+* closes #39 - SafetyWall (WALL) 1.3.2.0-release `<Muito obrigado Santos>` edition
+* closes #40 - 1.3.2.0 Additional Tasks
+
+---
 
 ## Version 1.3.2.0-release - `<Muito obrigada Santos>` edition
 
@@ -30,17 +64,15 @@
   * <pr-br.cfg> v1.0.0.0
   * Muito obrigada [Santo](https://github.com/ClaraSantosmf)
 * Update
-  * [Attribution.md] v1.1.1.0
-  * [Localizations.md] v1.3.1.0
+  * [Attribution.md] v1.1.2.0
+  * [Localizations.md] v1.3.2.0
 * closes #21 - French (Français) <fr-fr.cfg>
 * updates #16 - Localization - Master
 
-### Issues
+### Issues 1.3.2.0
 
 * closes #39 - SafetyWall (WALL) 1.3.2.0-release `<Muito obrigado Santos>` edition
 * closes #40 - 1.3.2.0 Additional Tasks
-* closes #18 - Brazalian (Português Brasil) <pt-br.cfg>
-* updates #16 - Localization - Master
 
 ---
 
@@ -69,7 +101,7 @@
 * closes #21 - French (Français) <fr-fr.cfg>
 * updates #16 - Localization - Master
 
-### Issues
+### Issues 1.3.2.0
 
 * closes #14 - SafetyWall (WALL) 1.3.1.0-release `<Merci beaucoup Icecoptère>` edition
 * closes #15 - 1.3.1.0 Additional Tasks
