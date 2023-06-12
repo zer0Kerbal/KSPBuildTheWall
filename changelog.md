@@ -7,29 +7,31 @@
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207496-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SafetyWall)             |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SafetyWall)           |
-| spacedock  | (https://spacedock.info/mod/3000)                                 |
+| spacedock  | (https://spacedock.info/mod/3006)                                 |
 | ckan       | SafetyWall                                                        |
 
-## Version 1.3.2.0-release - `<Muito obrigada Santos>` edition
+## Version 1.3.3.0-release - `<Bedankt wittekop38>` edition
 
 * Released
-  * 22 May 2023
+  * 12 Jun 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Change Summary 1.3.2.0
+### Change Summary 1.3.3.0
 
 * Localize
   * Dutch (Nederlands)
   * Bedankt [wittekop38](https://github.com/wittekop38)
 
-### Localization 1.3.2.0
+### Localization 1.3.3.0
 
 * Create
   * Dutch (Nederlands)
   * <nl-nl.cfg> v1.0.1.0
   * Bedankt [wittekop38](https://github.com/wittekop38)
 * Update
+  * [pt-br.cfg] v1.0.1.0
+    * update header
   * [Attribution.md] v1.1.3.0
   * [Localizations.md] v1.3.3.0
 * closes #28 - Dutch (Nederlands) <nl-nl.cfg>
@@ -42,20 +44,20 @@
 
 ---
 
-## Version 1.3.3.0-release - `<Muito obrigada Santos>` edition
+## Version 1.3.2.0-release - `<Muito obrigada Santos>` edition
 
 * Released
   * 15 May 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Change Summary 1.3.3.0
+### Change Summary 1.3.2.0
 
 * Localize
   * Brazilian Portuguese (Português Brasil)
   * Muito obrigada [Santo](https://github.com/ClaraSantosmf)
 
-### Localization 1.3.3.0
+### Localization 1.3.2.0
 
 * Create
   * Brazilian Portuguese (Português Brasil)
@@ -67,7 +69,7 @@
 * closes #21 - French (Français) <fr-fr.cfg>
 * updates #16 - Localization - Master
 
-### Issues 1.3.3.0
+### Issues 1.3.2.0
 
 * closes #39 - SafetyWall (WALL) 1.3.2.0-release `<Muito obrigado Santos>` edition
 * closes #40 - 1.3.2.0 Additional Tasks
