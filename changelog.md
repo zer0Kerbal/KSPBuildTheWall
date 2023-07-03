@@ -13,7 +13,7 @@
 ## Version 1.3.4.0-release - `<Спасибо evanisrael>` edition
 
 * Released
-  * 19 Jun 2023
+  * 01 Jul 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
@@ -144,7 +144,7 @@
 * closes #21 - French (Français) <fr-fr.cfg>
 * updates #16 - Localization - Master
 
-### Issues 1.3.2.0
+### Issues 1.3.1.0
 
 * closes #14 - SafetyWall (WALL) 1.3.1.0-release `<Merci beaucoup Icecoptère>` edition
 * closes #15 - 1.3.1.0 Additional Tasks
