@@ -3,9 +3,9 @@ SafetyWall (WALL)
 created: 23 Nov 2014
 updated: 12 Jun 2023
 
-TEMPLATE: readme.md v1.7.2.2
+TEMPLATE: readme.md v1.7.4.2
 created: 17 Jul 2017
-updated: 01 May 2023
+updated: 01 Jul 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 # [SafetyWall (WALL)][CURSFG:url]
@@ -28,21 +28,22 @@ An add-on that adds a safety fence around the Kerbal Space Center, for Kerbal Sp
 >* [Known Issues][issue] for more details of feature requests and known issues
 >* [Marketing Slicks][markt]
 
+### Localization
+
+>* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png) English
+>* ![Português Brasil](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png) Brazilian Portuguese (Português Brasil) - muito obrigada  [Santo](https://github.com/ClaraSantosmf)
+>* ![Français](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png) French (Français) - merci beaucoup [Icecoptere](https://github/Icecoptere)
+>* ![Dutch (Nederlands)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png) Dutch (Nederlands) - bedankt [wittekop38](https://github.com/wittekop38)
+>* ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский) - спасибо [evanisrael](https://github/evanisrael)
+>* ***your translation here***
+
 ### Help Wanted
 
 > * Assist to update the code
+> * Variant textures and model updates (add/improve: lights, iva, hatches et al)
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
-
-### Localization
-
->* ![English][EN] English
->* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) - muito obrigada  [Santo](https://github.com/ClaraSantosmf)
->* ![Français][FR] French (Français) - merci beaucoup [Icecoptere](https://github/Icecoptere)
->* ![Dutch (Nederlands)][NL] Dutch (Nederlands) - bedankt [wittekop38](https://github.com/wittekop38)
->* ![Russian (Русский)][RU] Russian (Русский) - спасибо [evanisrael](https://github/evanisrael)
->* ***your translation here***
 
 ### Installation Directions
 
@@ -81,7 +82,7 @@ graphics, physics, plugin
 
 #### Author (1) - [`zer0Kerbal`][zer0Kerbal]
 
-> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
+> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url] - Download [CurseForge][CURSFG:url]  
 > License: [![License][LIC:shd]][LIC:url]
 
 #### Original (ROOT) (0) - Author: [`godarklight`][auth-link]
@@ -155,15 +156,6 @@ Comment, click, like, share, up-vote, subscribe
 [PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
-
-<!-- Localization -->
-[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
-[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png "Português Brasil"
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png "Français"
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png "Dutch"
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
