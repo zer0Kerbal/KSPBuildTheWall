@@ -103,8 +103,8 @@
 
 ### Issues 1.3.3.0
 
-* closes #39 - SafetyWall (WALL) 1.3.2.0-release `<Muito obrigado Santos>` edition
-* closes #40 - 1.3.2.0 Additional Tasks
+* closes #45 - SafetyWall (WALL) 1.3.3.0-release `<Thank you godarklight>` edition
+* closes #46 - 1.3.3.0 Additional Tasks
 
 ---
 
