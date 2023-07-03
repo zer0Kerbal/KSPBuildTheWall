@@ -5,10 +5,10 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
-Attributions.md v1.1.3.0
+Attributions.md v1.1.4.0
 SafetyWall (WALL)
 created: 01 Apr 2022
-updated: 22 May 2023
+updated: 12 Jun 2023
 
 TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
@@ -53,9 +53,14 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png" alt="Português Brasil" style="zoom:100%;" />  Brazilian Portuguese (Português Brasil)- muito obrigada  <a href="https://github.com/ClaraSantosmf" alt="Santos">Santos</a></li>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png" alt="French (Français)" style="zoom:100%;" /> French (Français) - merci beaucoup  <a href="https://github.com/Icecoptere" alt="Icecoptere">Icecoptere</a></li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png" alt="Dutch (Nederlands)" style="zoom:100%;" /> Dutch (Nederlands) - Bedankt <a href="https://github.com/wittekop38" alt="wittekop38">wittekop38</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png" alt="Dutch (Nederlands)" style="zoom:100%;" /> Dutch (Nederlands) - bedankt <a href="https://github.com/wittekop38" alt="wittekop38">wittekop38</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png" alt="Russian (Русский)" style="zoom:100%;" /> Russian (Русский) - спасибо <a href="https://github.com/evanisrael" alt="evanisrael">evanisrael</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
+
+### Patreons
+
+* K
 
 ### Special Thanks
 
