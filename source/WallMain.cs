@@ -99,7 +99,7 @@ namespace SafetyWall
         private void DrawFunction(int windowID)
         {
             GUI.DragWindow(new Rect(0, 0, float.PositiveInfinity, 20));
-            if (GUILayout.Button("#autoLOC_900308")) // #autoLOC_900308 = Clear
+            if (GUILayout.Button(Localizer.Format("#autoLOC_900308"))) // #autoLOC_900308 = Clear
             {
                 Debug.Log("Clearing Walls");
                 foreach (WallSegment wallSegment in wallSegments)
@@ -135,7 +135,7 @@ namespace SafetyWall
                 Debug.Log("Making break");
                 lastPos = Vector3d.zero;
             }
-            if (GUILayout.Button("#WALL-04"))		// #WALL-04 = Finish
+            if (GUILayout.Button(Localizer.Format("#WALL-04")))		// #WALL-04 = Finish
             {
                 Debug.Log("Finish wall");
                 using (StreamWriter sw = new StreamWriter(wallFile))
