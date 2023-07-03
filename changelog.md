@@ -17,6 +17,18 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
+### Change Summary 1.3.5.0
+
+* Val is no longer suffering from tip-of-the-tongue phenomenon
+* Recompiled
+  * SafetyWall.dll v1.3.0.17 --> v1.3.5.18
+
+### Issues 1.3.5.0
+
+* closes #59 - SafetyWall (WALL) 1.3.5.0-release `<Word Unscramble>` edition
+* closes #60 - 1.3.5.0 Additional Tasks
+* closes #54 - [BUG] Localization code shows instead of string
+
 ---
 
 ## Version 1.3.4.0-release - `<Спасибо evanisrael>` edition
