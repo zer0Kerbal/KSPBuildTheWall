@@ -10,6 +10,15 @@
 | spacedock  | (https://spacedock.info/mod/3006)                                 |
 | ckan       | SafetyWall                                                        |
 
+## Version 1.3.5.0-release - `<Word Unscramble>` edition
+
+* Released
+  * 08 Jul 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+---
+
 ## Version 1.3.4.0-release - `<Спасибо evanisrael>` edition
 
 * Released
