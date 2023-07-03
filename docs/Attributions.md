@@ -58,6 +58,10 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
+### Patreons
+
+* K
+
 ### Special Thanks
 
 <ul>
