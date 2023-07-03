@@ -24,7 +24,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 ## Version 1.3.4.0-release - `<Спасибо evanisrael>` edition
 
 * Released
-  * 19 Jun 2023
+  * 01 Jul 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
