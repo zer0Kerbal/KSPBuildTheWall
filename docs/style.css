@@ -1,3 +1,22 @@
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #000;
+  border-bottom: 1px solid #ff0000;
+}
+
+a:visited {
+  color: #e600e6;
+  border-bottom: 1px solid #b3b3b3;
+}
+
+a:hover {
+  color: #2d8653;
+  border-bottom: 1px solid #000099;
+}
+
 body {
   background-color: lightblue;
 }
