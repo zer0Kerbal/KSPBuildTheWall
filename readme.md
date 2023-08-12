@@ -32,9 +32,9 @@ An add-on that adds a safety fence around the Kerbal Space Center, for Kerbal Sp
 
 >* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png) English
 >* ![Português Brasil](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png) Brazilian Portuguese (Português Brasil) - muito obrigada  [Santo](https://github.com/ClaraSantosmf)
->* ![Français](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png) French (Français) - merci beaucoup [Icecoptere](https://github/Icecoptere)
+>* ![Français](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png) French (Français) - merci beaucoup [Icecoptere](https://github.com/Icecoptere)
 >* ![Dutch (Nederlands)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png) Dutch (Nederlands) - bedankt [wittekop38](https://github.com/wittekop38)
->* ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский) - спасибо [evanisrael](https://github/evanisrael)
+>* ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский) - спасибо [evanisrael](https://github.com/evanisrael)
 >* ***your translation here***
 
 ### Help Wanted
